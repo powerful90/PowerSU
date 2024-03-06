@@ -6,7 +6,7 @@ PowerSU this tool can brute user any system linux use python3.
 ➤ Download
 ```
 git clone https://github.com/powerful90/PowerSU.git
-cd /PowerSU
+cd PowerSU/
 python3 PowerSU.py
 ```
 ➤ Usage
